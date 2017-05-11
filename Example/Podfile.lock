@@ -1,0 +1,16 @@
+PODS:
+  - GWToast (0.1.0)
+
+DEPENDENCIES:
+  - GWToast (from `../`)
+
+EXTERNAL SOURCES:
+  GWToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWToast: 4bce0d56f7237142ad9a310c0aa6b3bdebcbc012
+
+PODFILE CHECKSUM: ac794d46e67703a959ba38cebe5c9f610c9fdef4
+
+COCOAPODS: 1.2.1

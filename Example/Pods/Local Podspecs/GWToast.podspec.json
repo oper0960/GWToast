@@ -1,0 +1,22 @@
+{
+  "name": "GWToast",
+  "version": "0.1.0",
+  "summary": "A short description of GWToast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oper0960/GWToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oper0960": "oper0960@peopleroad.net"
+  },
+  "source": {
+    "git": "https://github.com/oper0960/GWToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GWToast/Classes/**/*"
+}

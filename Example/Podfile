@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GWToast_Example' do
+  pod 'GWToast', :path => '../'
+
+  target 'GWToast_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
