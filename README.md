@@ -27,15 +27,3 @@ oper0960, oper0960@peopleroad.net
 ## License
 
 GWToast is available under the MIT license. See the LICENSE file for more info.
-
-```swift
-
-func a() {
-	print("dfsfsd")
-
-}
-
-```
-
-
-
